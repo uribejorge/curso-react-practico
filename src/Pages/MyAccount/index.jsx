@@ -1,11 +1,11 @@
-import Layout from '../../Components/Layout';
-function MyAccount() {
+import Layout from '../../Components/Layout'
 
-    return (
-      <Layout>
+function MyAccount() {
+  return (
+    <Layout>
       MyAccount
     </Layout>
-    )
-  }
-  
-  export default MyAccount
+  )
+}
+
+export default MyAccount

@@ -1,11 +1,11 @@
-import Layout from '../../Components/Layout';
-function NotFound() {
+import Layout from '../../Components/Layout'
 
-    return (
-        <Layout>
-        MyOrders
-      </Layout>
-    )
+function NotFound() {
+  return (
+    <Layout>
+      NotFound
+    </Layout>
+  )
 }
 
-export default NotFound;
+export default NotFound
